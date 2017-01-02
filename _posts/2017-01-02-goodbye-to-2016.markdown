@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Goodbye 2016!!"
+date:   2017-01-02 11:20:20 -0400
+categories: newyear 
+---
+Here's to a brand new year, and all of the things that promises. In the grand tradition of New Year's Resolutions, I've decided to finally put together a personal blog page.
+
+It's been a while since I've done much writing, or indeed since I believed that I had anything at all to say that anyone wanted to hear. That's probably still true, but at the very least, I'll have some kind of written record for the year that I can review and use to gauge my progress (if any) when 2018 rolls around in a few short months.
+
+First, a retrospective. In writing my private journals last year (which was a solid habit for a good 2-3 months, whee!) I found that I tend to discount past accomplishments when I'm doing the forward-thinking thing. So we'll begin with a list of the things that 2016 brought:
+
+1. Graduated [yoga teacher training][ytt]
+2. Got my first [regular teaching gig][gig]
+3. Accepted to a [master's program in Data Science][mcsds]
+4. Finished my first semester with a 3.87 GPA
+5. Visited [Naples][napoli], [Milan][milano], [Ischia][ischia] and the [Amalfi Coast][amalfi]
+6. Spent a weekend without power in a [cabin in the woods][cabin] of Argyle, NY
+7. Discovered [bio][biodome] and [body][strippers] diversity in Montreal
+8. Met up with old friends in [Tucson, AZ][tucson] for a gleeky reunion
+9. Went back to Boulder, CO for the [Hanuman Yoga Festival][hanuman]
+10. Survived knee surgery to repair a [torn meniscus][meniscus]
+11. Became a certified (certifiable?) Reiki practitioner (level II)
+12. Presented at SAP TechEd in Las Vegas, NV
+
+
+I could go on, but I think I'd start getting lost in the details of what should a survey-course, not a thesis. Bottom-line: for me personally, it was a decent year. There were a number of personal goals accomplished, a good deal of travel, and the beginning of a new chapter (or at least paragraph) with the addition of schooling to my schedule.
+
+
+Next up: lists of things we'd like to accomplish that we'll most likely forget about sometime between Valentine's Day and the Ides of March. 
+
+[ytt]: 
+[gig]:   
+[mcsds]:
+[napoli]: 
+[milano]:
+[ischia]:
+[amalfi]:
+[cabin]:
+[biodome]:
+[strippers]:
+[tucson]:
+[hanuman]:
+[meniscus]:
